@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="5" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73458" started-at="2020-09-11T03:36:30 IST" finished-at="2020-09-11T03:37:43 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73458" started-at="2020-09-11T03:36:30 IST" finished-at="2020-09-11T03:37:43 IST">
+      <class name="com.capge.hos1.script.testscript">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.capge.hos1.script.testscript@5f282abb]" name="setup" is-config="true" duration-ms="51201" started-at="2020-09-11T03:36:30 IST" finished-at="2020-09-11T03:37:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateloginid()[pri:1, instance:com.capge.hos1.script.testscript@5f282abb]" name="validateloginid" duration-ms="14931" started-at="2020-09-11T03:37:21 IST" finished-at="2020-09-11T03:37:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateloginid -->
+        <test-method status="PASS" signature="validatepass()[pri:2, instance:com.capge.hos1.script.testscript@5f282abb]" name="validatepass" duration-ms="155" started-at="2020-09-11T03:37:36 IST" finished-at="2020-09-11T03:37:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatepass -->
+        <test-method status="PASS" signature="validatelogin()[pri:3, instance:com.capge.hos1.script.testscript@5f282abb]" name="validatelogin" duration-ms="119" started-at="2020-09-11T03:37:37 IST" finished-at="2020-09-11T03:37:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatelogin -->
+        <test-method status="PASS" signature="validatetitle()[pri:4, instance:com.capge.hos1.script.testscript@5f282abb]" name="validatetitle" duration-ms="163" started-at="2020-09-11T03:37:37 IST" finished-at="2020-09-11T03:37:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatetitle -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.capge.hos1.script.testscript@5f282abb]" name="teardown" is-config="true" duration-ms="6635" started-at="2020-09-11T03:37:37 IST" finished-at="2020-09-11T03:37:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.capge.hos1.script.testscript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
